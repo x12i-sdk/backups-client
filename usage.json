@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/backups-client",
+  "packageVersion": "0.7.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/backups-client",
+  "usageRepository": "https://github.com/x12i-sdk/backups-client",
+  "sourceRepository": "https://github.com/x12i/backups-agent",
+  "sourceCommit": "42bc256e7e036d80406120eaf57ee2b5adb37e0b",
+  "sourcePackageDirectory": "packages/client",
+  "example": {
+    "title": "Read a small stored ZIP archive without a backup server",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:51:52.702309+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "1dcbb64efa49fb836fcde8fb052bc786947d7a8674983ed19055b76d6179fc15",
+    "manifestSha256": "e54652ad0a3ee7fb5213bd8d350a56eb77e98ea11064927c072c9ec3c7d6443c"
+  }
+}
